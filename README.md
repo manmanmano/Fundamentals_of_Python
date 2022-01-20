@@ -1,2 +1,2 @@
 # Fundamentals of Python
-All the programs of the course Fundamentals of Python at Taltech Cyber Security Engineering faculty.
+This repository contains all the completed programs / assignments from the course Fundamentals of Python at Taltech, Cyber Security Engineering faculty.
